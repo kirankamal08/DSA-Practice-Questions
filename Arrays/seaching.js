@@ -85,5 +85,5 @@ function calculateTrappedWater(elevationHeight) {
    return waterTrapped;
 }
 
-let elevationHeight =[4, 2, 0, 3, 2, 5] ;
+let elevationHeight =[4, 2, 0, 3, 2, 5];
 console.log(calculateTrappedWater(elevationHeight))
